@@ -16,8 +16,6 @@
 			<input type="radio" name="debug" value="">No
 			</br></br>
 			<input type="submit">
-			
-			
 		</form>
 	
 	</body>
